@@ -1,0 +1,52 @@
+[submodule "OCA/web"]
+	path = OCA/web
+	url = https://github.com/OCA/web
+	branch = 14.0
+[submodule "OCA/partner-contact"]
+	path = OCA/partner-contact
+	url = https://github.com/OCA/partner-contact
+	branch = 14.0
+[submodule "OCA/server-ux"]
+	path = OCA/server-ux
+	url = https://github.com/OCA/server-ux
+	branch = 14.0
+[submodule "OCA/account-payment"]
+	path = OCA/account-payment
+	url = https://github.com/OCA/account-payment
+	branch = 14.0
+[submodule "OCA/account-financial-tools"]
+	path = OCA/account-financial-tools
+	url = https://github.com/OCA/account-financial-tools
+	branch = 14.0
+[submodule "OCA/account-financial-reporting"]
+	path = OCA/account-financial-reporting
+	url = https://github.com/OCA/account-financial-reporting
+	branch = 14.0
+[submodule "OCA/l10n-italy"]
+	path = OCA/l10n-italy
+	url = https://github.com/OCA/l10n-italy
+	branch = 14.0
+[submodule "OCA/edi"]
+	path = OCA/edi
+	url = https://github.com/OCA/edi
+	branch = 14.0
+[submodule "OCA/queue"]
+	path = OCA/queue
+	url = https://github.com/OCA/queue
+	branch = 14.0
+[submodule "OCA/mis-builder"]
+	path = OCA/mis-builder
+	url = https://github.com/OCA/mis-builder
+	branch = 14.0
+[submodule "OCA/reporting-engine"]
+	path = OCA/reporting-engine
+	url = https://github.com/OCA/reporting-engine
+	branch = 14.0
+[submodule "OCA/bank-payment"]
+	path = OCA/bank-payment
+	url = https://github.com/OCA/bank-payment
+	branch = 14.0
+[submodule "OCA/community-data-files"]
+	path = OCA/community-data-files
+	url = https://github.com/OCA/community-data-files
+	branch = 14.0
